@@ -72,29 +72,17 @@ C:\LAB3
 
 Python, Wireshark/Npcap
 
-Chưa có kết quả phiên bản được đối chiếu trong bản README này
-
 Phiên bản thực tế và ảnh kiểm tra
 
 Sysmon, Autoruns, Process Explorer
-
-Chưa có kết quả phiên bản được đối chiếu trong bản README này
 
 Phiên bản thực tế và ảnh kiểm tra
 
 Mạng và snapshot
 
-Cần bổ sung ảnh cấu hình
-
-Chế độ mạng, tên snapshot sạch
-
-Lưu ý: Điền phiên bản thực tế từ máy thực hành. Nếu khác cấu hình chuẩn trong đề, ghi rõ khác biệt và báo giảng viên theo yêu cầu của tài liệu.
-
-
 
 4. Cách dựng lại môi trường
 
-Các bước dưới đây tóm tắt quy trình theo tài liệu giảng viên; không dùng thay cho bằng chứng đã thực hiện.
 
 Chuẩn bị máy ảo Windows trên VMware, cấu hình mạng Host-only và tạo snapshot sạch.
 
