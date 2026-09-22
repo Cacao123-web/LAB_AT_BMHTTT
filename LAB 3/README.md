@@ -1,5 +1,5 @@
 LAB 3 – NHẬN DIỆN VÀ ỨNG PHÓ CÁC MỐI ĐE DỌA ĐẾN AN TOÀN THÔNG TIN
-
+LINK YTB : https://www.youtube.com/watch?v=NLp0mEGP0gg
 1. Thông tin sinh viên
 
 Họ và tên: Hoàng Công Trường Lộc
