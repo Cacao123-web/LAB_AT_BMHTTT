@@ -10,6 +10,7 @@
 ## 2. Phiên bản môi trường thực hành
 
 | Thành phần | Phiên bản / Cấu hình |
+|---|---|
 | Máy thật | Pop!_OS Linux |
 | Phần mềm ảo hóa | Oracle VirtualBox |
 | Máy quét | Kali Linux 64-bit |
