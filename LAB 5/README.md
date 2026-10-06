@@ -8,7 +8,7 @@
 - **Bài thực hành:** Lab 5
 - **Hệ điều hành máy thật:** Pop!_OS Linux
 - **Phần mềm ảo hóa:** Oracle VirtualBox
-LINKYTB https://youtu.be/e8p_6z2VU-I
+- **LINKYTB:** https://youtu.be/e8p_6z2VU-I
 ---
 
 ## 2. Tên bài Lab
