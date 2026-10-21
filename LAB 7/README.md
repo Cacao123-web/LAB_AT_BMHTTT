@@ -8,7 +8,7 @@
 - **Bài thực hành:** Lab 7
 - **Hệ điều hành máy thật:** Pop!_OS Linux
 - **Phần mềm ảo hóa:** Oracle VirtualBox
-- **Link video YouTube:** Chưa cập nhật
+- **YouTube:** https://www.youtube.com/watch?v=BKu8D3E7oZ8.
 
 ---
 
@@ -120,7 +120,7 @@ Qua giai đoạn chuẩn bị, em đã kiểm tra các thành phần mạng tron
 
 ## 8. Video minh chứng
 
-**YouTube:** Chưa cập nhật.
+**YouTube:** https://www.youtube.com/watch?v=BKu8D3E7oZ8.
 
 ## 9. Tài liệu tham khảo
 
